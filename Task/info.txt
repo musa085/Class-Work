@@ -1,0 +1,5 @@
+Ad: Musa
+Soyad: Bayramov
+Yaş: 11
+Hobby: Futbol
+Dilller: English, Azerbaijani
